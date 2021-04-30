@@ -1,0 +1,7 @@
+-r requirements.txt
+codecov
+pytest
+pytest-cov
+pytest-timeout
+pytest-asyncio
+pytest-httpserver
